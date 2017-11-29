@@ -1,0 +1,2 @@
+	Написать парсер для Finance.UA в
+режиме XML (format=xml)
